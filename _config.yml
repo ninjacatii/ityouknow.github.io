@@ -19,7 +19,7 @@ repository: ninjacatii/ninjacatii.github.io
 github_url: https://github.com/ninjacatii
 cnblog_url: http://www.cnblogs.com/ninjacatii
 url: ninjacatii.github.io
-enforce_ssl: ninjacatii.github.io
+enforce_ssl: 
 
 ## Gem
 plugins:
